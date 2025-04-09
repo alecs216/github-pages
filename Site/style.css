@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+
+}
+
+#stefan {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+}
+.bch
+{
+    top: 0;
+    position: relative;
+}
+#antete{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    text-align: left;
+    font-size: large;
+}
+#dd
+{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+}
+#scrisepic
+{
+    font-family: Brush Script MT, Brush Script Std, cursive;
+    font-size: xx-large;
+    text-align: right;
+    line-height: 1;
+}
+#titlu
+{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 6rem;
+    text-align: center;
+}
+#hr{
+    border: 0.5mm #c96d04;
+    border-top: 0.5mm #c96d04;
+}
